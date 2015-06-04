@@ -1,7 +1,7 @@
 {
   "name": "tiny-qs",
   "description": "A tiny query string serialization/deserialization plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "Alex Chao",
     "email": "alexchao1990@gmail.com"
