@@ -1,5 +1,5 @@
 /*!
- * tiny-qs - A tiny cookie manipulation plugin
+ * tiny-qs - A tiny query string serialization/deserialization plugin
  * https://github.com/Alex1990/tiny-qs
  * Under the MIT license | (c) Alex Chao
  */
